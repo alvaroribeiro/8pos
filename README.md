@@ -1,1 +1,1 @@
-Project: 8pos
+Projeto: Tema de landing page 
